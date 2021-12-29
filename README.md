@@ -4,7 +4,7 @@
 I program in basically anything as long as there's a tutorial for it. Right now I'm learning Java and Rust.
 
 ### About Me
-I'm [Xarvatium](https://xarvatium.dev), an aspiring Information Security Analyst but I'll take Engineer too. I like programming and think Linux is epic. Arch-based distros are my preferred cause of Pacman and Arch's stability (if you know what you are doing). The rolling release model is great too, making openSUSE Tumbleweed my second favorite distro, especially thanks to YaST.
+I'm [Xarvatium](https://xarvatium.dev), an aspiring Information Security Engineer. I like programming and think Linux is epic. Arch-based distros are my preferred cause of Pacman and Arch's stability (if you know what you are doing). The rolling release model is great too, making openSUSE Tumbleweed my second favorite distro, especially thanks to YaST.
 
 ### Specs
 - CPU - AMD Ryzen 9 5900X
