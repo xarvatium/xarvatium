@@ -15,7 +15,7 @@ Learning V
 ### System Specs
 
 * CPU - AMD Ryzen 9 5900X
-* GPU - AMD Radeon RX 580 8GB (a little bit underpower for a R9 5900X, yes)
+* GPU - AMD Radeon RX 580 8GB (a little bit underpowered for a R9 5900X, yes)
 * RAM - 32GB DDR4-3600
 * Motherboard - Asus TUF Gaming X570-PLUS
 * Storage (Yes, it's a lot)
